@@ -1,1 +1,1 @@
-Chakrid, Krid, 68130500013
+เชื่อ Chakrid, Krid, 68130500013
