@@ -18,7 +18,7 @@ while k < 1 :
                 kayaba -= first
                 print(kayaba)
             if kayaba > 0 :
-                hit = int(input("ตีกี่ครั้ง"))
+                hit = int(input("ตีกี่ครั้ง "))
                 for i in range (hit) :
                     kayaba -= first
                     print(kayaba) 
