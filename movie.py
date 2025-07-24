@@ -1,9 +1,13 @@
 # ฟังก์ชันแสดงรายชื่อหนังทั้งหมดในระบบ
 def show_movies(movie_list):
-    for i in movie_list:
+    for i in movie:
         print(movie_list)
     show_movies(1)
 
+
+# ฟังก์ชันแสดงรายชื่อหนังทั้งหมดในระบบ
+def show_movies(movie_list):
+    # TODO: วนลูปแสดงชื่อหนังพร้อมราคาตั๋ว
 
 # ฟังก์ชันตรวจสอบอายุตามข้อจำกัดของหนัง
 def check_age(user_age, age_restriction):
